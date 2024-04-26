@@ -13,7 +13,7 @@ __*"Piano Piano"*__ by Adrien M & Claire B, a visual design that translates soun
 ## **Part 2: Coding Technique Exploration**
 
 ![An image of Low sound level](/assets/sound1.png)
-![An image of High sound level](/assets/sound2.png)
+![An image of High sound level](../zzho8986_9106_Quiz8//assets/sound2.png)
 
 The audio signal is captured via the code, then quantized and transformed into a digital signal. Input through the microphone generates shapes of varying sizes. Low volume levels produce small circles, while higher volumes expand the circle's radius, creating larger shapes. Utilizing this process can lead to more innovative designs!
 
