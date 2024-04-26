@@ -19,6 +19,8 @@ The audio signal is captured via the code, then quantized and transformed into a
 
 For example, artwork can be converted into a dot matrix pattern, with the size of the dots adjusted based on the audio signal. Additionally, incorporating more design elements, such as random factors or setting the image to match the audio's high and low frequencies, will make the visual effect more structured and appealing.
 
+__*Alternatively, as with the line described above, after capturing the audio quantization data, use this data to dictate the line's transformations.*__
+
 According to the code obtained from the [Working with sounds and speech in P5.js](https://medium.spatialpixel.com/sounds-bd05429aba38), this website contains many methods for using audio in p5.js.
 
 **Here is the code used from the link:**
